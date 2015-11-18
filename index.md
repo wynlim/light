@@ -34,6 +34,7 @@ What are the stories we tell about mental health? This little list seeks to cont
 * [This is about the time I chose not to die.](https://medium.com/@monteiro/this-is-about-the-time-i-chose-not-to-die-3c2cc97cf769)
 * [Screw stigma. I’m coming out.](https://stories.expost-news.com/screw-stigma-im-coming-out-6809e83f355e)
 * [Depression and the Highly Logical Mind](http://benjyw.com/post/40534968093/depression-and-the-highly-logical-mind)
+* [I’m Glad You Didn’t Jump, Shannon](https://the-pastry-box-project.net/shannon-fisher/2015-May-30)
 * [List of people with major depressive disorder](https://en.wikipedia.org/wiki/List_of_people_with_major_depressive_disorder)
 
 ## Visual explainers
