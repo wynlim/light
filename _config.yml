@@ -1,0 +1,10 @@
+# Site settings
+title: light
+description: lighting up the space for mental health
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://light.lucent.space" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+exclude: [Gemfile]
+
