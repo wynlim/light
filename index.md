@@ -2,7 +2,8 @@
 layout: default
 category: index
 ---
-#light
+
+What are the stories we tell about mental health? This little list seeks to contemplate the questions. This site in [continuous improvement](https://en.wikipedia.org/wiki/Kaizen). [Get an email](http://eepurl.com/bGu_Mb) for updates.
 
 ## It is not “all in your mind”.
 
@@ -32,18 +33,20 @@ category: index
 * [Charles Darwin’s Battle with Anxiety](https://www.brainpickings.org/2014/08/28/darwin-anxiety/)
 * [This is about the time I chose not to die.](https://medium.com/@monteiro/this-is-about-the-time-i-chose-not-to-die-3c2cc97cf769)
 * [Screw stigma. I’m coming out.](https://stories.expost-news.com/screw-stigma-im-coming-out-6809e83f355e)
+* [Depression and the Highly Logical Mind](http://benjyw.com/post/40534968093/depression-and-the-highly-logical-mind)
 * [List of people with major depressive disorder](https://en.wikipedia.org/wiki/List_of_people_with_major_depressive_disorder)
 
 ## Visual explainers
 
 * [A comic that accurately sums up depression and anxiety — and the uphill battle of living with them](http://www.upworthy.com/a-comic-that-accurately-sums-up-depression-and-anxiety-and-the-uphill-battle-of-living-with-them)
-* [Have you tried herbal tea?](http://www.buzzfeed.com/kirstenking/have-you-tried-herbal-tea)
+* [Just because you can’t see the pain, doesn’t mean it doesn’t exist.](http://www.buzzfeed.com/kirstenking/have-you-tried-herbal-tea)
 * [Adventures in Depression](http://hyperboleandahalf.blogspot.co.id/2011/10/adventures-in-depression.html)
 
 ## Rethinking mental illnesses 
 
 * [Depressed people have a more accurate perception of time](http://www.sciencedaily.com/releases/2013/08/130822090326.htm)
 * “The researchers found that the depressed individuals were much better at identifying those instances when they had little control over the outcomes, while the non-depressed students tended to overestimate their degree of influence over the light.” - [source](http://www.newyorker.com/science/maria-konnikova/dont-worry-be-happy)
+* [Depression's Evolutionary Roots](http://www.scientificamerican.com/article/depressions-evolutionary/)
 * [Secrets of the Creative Brain](http://www.theatlantic.com/features/archive/2014/06/secrets-of-the-creative-brain/372299/)
 * [The Relationship Between Creativity and Mental Illness](http://www.brainpickings.org/2014/07/21/creativity-and-mental-illness/)
 * [Touched With Fire](http://www.amazon.com/Touched-Fire-Kay-Redfield-Jamison-ebook/dp/B001D1YCM2/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=)
@@ -71,9 +74,11 @@ category: index
     * [The Power of Habit](http://www.amazon.com/The-Power-Habit-What-Business/dp/081298160X)
     * [The Power of Full Engagement](http://www.amazon.com/Power-Full-Engagement-Managing-Performance-ebook/dp/B000FC0SWS/)
     * [The Art of Happiness](http://www.amazon.com/Art-Happiness-10th-Anniversary-Handbook-ebook/dp/B002UK6NO0/)
+    * [The Balance Within: The Science Connecting Health and Emotions](http://www.amazon.com/The-Balance-Within-Connecting-Emotions/dp/0716744457)
 * Improvement strategies
-        * [The Ultramind Solution](http://www.amazon.com/UltraMind-Solution-Broken-Brain-Healing-ebook/dp/B001NLKU7S/)
-        * [Search Inside Yourself](http://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving-ebook/dp/B0070XF474/)
+    * [The Ultramind Solution](http://www.amazon.com/UltraMind-Solution-Broken-Brain-Healing-ebook/dp/B001NLKU7S/)
+    * [Search Inside Yourself](http://www.amazon.com/Search-Inside-Yourself-Unexpected-Achieving-ebook/dp/B0070XF474/)
+    * [The Mood Cure](http://www.amazon.com/The-Mood-Cure-Program-Emotions-Today/dp/0142003646)
 
 ## Communities
 
@@ -85,10 +90,3 @@ category: index
 
 * [Greg Baugues](http://baugues.com/depression)
 * [Startup depression](http://startupdepression.com/)
-
-
-
-
-
-
-
