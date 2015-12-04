@@ -58,12 +58,14 @@ What are the stories we tell about mental health? This little list seeks to cont
 
 * [Take NPR’s Adverse Childhood Experiences quiz](http://www.npr.org/sections/health-shots/2015/03/02/387007941/take-the-ace-quiz-and-learn-what-it-does-and-doesnt-mean)
 * [11 Things Those Who Love A Person With Mental Illness Should Know](http://www.huffingtonpost.com/entry/mental-illness-what-you-should-know_56339964e4b0c66bae5c2caf)
+* [How a spreadsheet helped me tackle my depression](http://qz.com/532694/how-a-spreadsheet-helped-me-tackle-my-depression/)
 
 ## Books
 
 * Research
     * [The Depths](http://www.amazon.com/Depths-Evolutionary-Origins-Depression-Epidemic-ebook/dp/B00IA7DQQK/): The Evolutionary Origins of the Depression Epidemic
     * [Touched with Fire](http://www.amazon.com/Touched-Fire-Manic-depressive-Artistic-Temperament-ebook/dp/B001D1YCM2/): Manic-depressive Illness and the Artistic Temperament
+    * [My Age of Anxiety](http://www.amazon.com/My-Age-Anxiety-Dread-Search-ebook/dp/B00F8F7M58/): the history of efforts by scientists, philosophers, and writers to understand the condition
 * Memoirs
     * [Lincoln's Melancholy: How Depression Challenged a President and Fueled His Greatness](http://www.amazon.com/Lincolns-Melancholy-Depression-Challenged-President-ebook/dp/B0085TK3CS/)
     * [Furiously Happy](http://www.amazon.com/Furiously-Happy-Funny-Horrible-Things-ebook/dp/B00V37BC4C/)
