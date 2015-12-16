@@ -35,6 +35,7 @@ What are the stories we tell about mental health? This little list seeks to cont
 * [Screw stigma. I’m coming out.](https://stories.expost-news.com/screw-stigma-im-coming-out-6809e83f355e)
 * [Depression and the Highly Logical Mind](http://benjyw.com/post/40534968093/depression-and-the-highly-logical-mind)
 * [I’m Glad You Didn’t Jump, Shannon](https://the-pastry-box-project.net/shannon-fisher/2015-May-30)
+* [Depression, Success, And Lies Of The Mind](http://dish.andrewsullivan.com/2014/08/13/depression-success-and-lies-of-the-mind/)
 * [List of people with major depressive disorder](https://en.wikipedia.org/wiki/List_of_people_with_major_depressive_disorder)
 
 ## Visual explainers
@@ -46,7 +47,7 @@ What are the stories we tell about mental health? This little list seeks to cont
 ## Rethinking mental illnesses 
 
 * [Depressed people have a more accurate perception of time](http://www.sciencedaily.com/releases/2013/08/130822090326.htm)
-* “The researchers found that the depressed individuals were much better at identifying those instances when they had little control over the outcomes, while the non-depressed students tended to overestimate their degree of influence over the light.” - [source](http://www.newyorker.com/science/maria-konnikova/dont-worry-be-happy)
+* “The researchers found that the depressed individuals were much better at identifying those instances when they had little control over the outcomes, while the non-depressed students tended to overestimate their degree of influence over the light.” - [Don’t Worry, Be Happy, The New Yorker](http://www.newyorker.com/science/maria-konnikova/dont-worry-be-happy)
 * [Depression's Evolutionary Roots](http://www.scientificamerican.com/article/depressions-evolutionary/)
 * [Secrets of the Creative Brain](http://www.theatlantic.com/features/archive/2014/06/secrets-of-the-creative-brain/372299/)
 * [The Relationship Between Creativity and Mental Illness](http://www.brainpickings.org/2014/07/21/creativity-and-mental-illness/)
@@ -58,6 +59,7 @@ What are the stories we tell about mental health? This little list seeks to cont
 
 * [Take NPR’s Adverse Childhood Experiences quiz](http://www.npr.org/sections/health-shots/2015/03/02/387007941/take-the-ace-quiz-and-learn-what-it-does-and-doesnt-mean)
 * [11 Things Those Who Love A Person With Mental Illness Should Know](http://www.huffingtonpost.com/entry/mental-illness-what-you-should-know_56339964e4b0c66bae5c2caf)
+* [Depression Anxiety Stress Scales (DASS)](http://www2.psy.unsw.edu.au/dass/)
 * [How a spreadsheet helped me tackle my depression](http://qz.com/532694/how-a-spreadsheet-helped-me-tackle-my-depression/)
 
 ## Books
@@ -91,5 +93,6 @@ What are the stories we tell about mental health? This little list seeks to cont
 
 ## Other resources
 
+* [prompt](http://http://mhprompt.org/): "Let’s start a conversation about mental health in tech"
 * [Greg Baugues](http://baugues.com/depression)
 * [Startup depression](http://startupdepression.com/)
